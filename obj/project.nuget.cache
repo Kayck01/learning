@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qbVgCYnM6szRiM29XSqhC5nUp0xEcLz2pSiNIMbQxSRWbwHv6xnzSDTg+5v4pAaPApoidBRb7FNAED6SwJyqlQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\Balta\\Balta.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kayck\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Kayck\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Kayck\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\Kayck\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
